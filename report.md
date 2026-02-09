@@ -1,0 +1,1 @@
+I learnt how to create a Github repository. I also learnt how to perform a commit and a merge on github. Lastly I learnt some basic html.
